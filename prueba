@@ -1,1 +1,29 @@
-test dos
+<!DOCTYPE>
+<html>
+<head>
+    <title>My blog</title>
+    <meta charset="utf-8">
+
+</head>
+<body>
+    <img src="https://cdn.discordapp.com/attachments/342512778797645825/891060239032537098/BlogHeader.png" alt="Header">
+
+    <nav>
+        <a href=""> Home </a> |
+        <a href=""> News </a> |
+        <a href=""> Articles </a> |
+        <a href=""> Contact </a> |
+        <a href=""> About Us </a> |
+    </nav>
+
+    <section>
+            <h2>Me</h2>
+            <p> I am Sara and I am 17 years old and im currently am studying programming I also like potatoes and anime</p>
+    </section>
+
+    <aside>
+        
+    </aside>
+
+
+</body>
