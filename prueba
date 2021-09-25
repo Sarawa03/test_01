@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
 <head>
-    <title>My blog</title>
+    <title>Anime Blog</title>
     <meta charset="utf-8">
 
 </head>
@@ -19,14 +19,46 @@
     <h1> Welcome to our anime Blog </h1>
 
     <section>
-            <h2>  Rokudenashi Majutsu Koushi to Akashic Records </h2>
+            <h2> Rokudenashi Majutsu Koushi to Akashic Records </h2>
             <img src="https://www.animesoulking.com/wp-content/uploads/2020/03/Top-10-Magic-School-Anime.jpg" alt="MagicAnimes">
-            <p> What is this? a magic japanese anime. What are japanese animes? well we all know what an anime is (term derived from the english word "animation") This genre basically includes this animation with a magic genre just as any other serie. </p>
+            <p> <a href="https://myanimelist.net/anime/32951/Rokudenashi_Majutsu_Koushi_to_Akashic_Records"> Rokudenashi Majutsu Koushi to Akashic Records </a> is a <b>magic</b> genre japanese anime (term derived from the english word "animation") written by <i>Tarō Hitsuji</i> and illustrated by <i>Kurone Mishima</i>. </p>
+
+            <h4>Plot:</h4>
+            <p> This story takes place on the Alzano Imperial Magic Academy where students will learn how to use their own skills with their teacher's replacement help <i>Glann Radars</i>. Him along our main characters <i>Sistine Fibel</i> and <i>Rumia Tingel</i> will have to go through a lot of adventures to see what their future will be.</p>
+
+    </section>
+
+    <section>
+        <h2> Your name  </h2>
+        <img src="https://www.animesoulking.com/wp-content/uploads/2020/03/Top-10-Magic-School-Anime.jpg" alt="MagicAnimes">
+        <p> <a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa"> Your name </a> also known as <i>Kimi no Na wa</i> is a <b>romance</b> anime produced by <i>CoMix Wave Films.</i> </p>
+
+        <h4>Plot:</h4>
+        <p> This story follows two teenagers <i>Mitsuha</i> and <i>Taki</i>. Mitsuha is a young girl that lives in a small town on the outskirts of Japan while Taki lives in Tokyo, this two teenagers will have to deal with what live decided to make them go through, Switching bodies between themselves for... A purpose?  </p>
+
+    </section>
+
+    <section>
+        <h2> My Hero Academia </h2>
+        <img src="https://www.animesoulking.com/wp-content/uploads/2020/03/Top-10-Magic-School-Anime.jpg" alt="MagicAnimes">
+        <p> <a href="">My hero academia </a> known as <i>Boku no Hīrō Akademia</i> is an <b>Action</b> written and illustrated by <i>Kōhei Horikoshi</i> </p>
+
+        <h4>Plot:</h4>
+        <p> This anime follows <i>Izuku Midoriya</i> our main character was born without superpowers, yet he will later on acquire them and he'll end up going to a superpower school </p>
+
     </section>
 
     <aside>
         
     </aside>
 
-test
+    <aside>
+        
+    </aside>
+
+    <aside>
+        
+    </aside>
+
+
 </body>
